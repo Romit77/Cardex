@@ -6,20 +6,19 @@ function Foreground() {
 
   const data = [
     {
-      description: "This is a test card",
+      description: "Drag this card!",
       filesize: "0.7mb",
       closure: true,
       tag: { isOpen: true, Title: "Download now", tagColor: "green" },
     },
     {
-      description:
-        " Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed, error!",
+      description: " This card can be dragged",
       filesize: "1.2mb",
       closure: false,
       tag: { isOpen: true, Title: "Download now", tagColor: "green" },
     },
     {
-      description: "this is a card with a download now button",
+      description: "Springy cards",
       filesize: "4.8mb",
       closure: true,
       tag: { isOpen: true, Title: "Download now", tagColor: "green" },
